@@ -1,0 +1,50 @@
+name: Deploy to Cloud Run
+
+on:
+  push:
+    branches: [main]
+
+env:
+  PROJECT_ID: mastery-mind
+  REGION: europe-west1
+  SERVICE: mastery-mind-ssr
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Deploy via Cloud Build
+        run: |
+          gcloud builds submit \
+            --config cloudbuild.yaml \
+            --project $PROJECT_ID \
+            --region $REGION \
+            --quiet
+
+      - name: Verify deployment
+        run: |
+          URL=$(gcloud run services describe $SERVICE \
+            --project $PROJECT_ID \
+            --region $REGION \
+            --format='value(status.url)')
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL/api/health")
+          if [ "$STATUS" != "200" ]; then
+            echo "Health check failed with status $STATUS"
+            exit 1
+          fi
+          echo "✅ Deployment healthy at $URL"

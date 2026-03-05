@@ -1,0 +1,21 @@
+{
+    "name": "MasteryMind",
+    "short_name": "MasteryMind",
+    "description": "AI-powered revision for GCSE & A-Level students",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#f0f0ff",
+    "theme_color": "#4f46e5",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

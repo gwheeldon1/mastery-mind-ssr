@@ -1,0 +1,56 @@
+steps:
+  # Build Docker image with build args for public env vars
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "build"
+      - "--build-arg"
+      - "NEXT_PUBLIC_SUPABASE_URL=${_NEXT_PUBLIC_SUPABASE_URL}"
+      - "--build-arg"
+      - "NEXT_PUBLIC_SUPABASE_ANON_KEY=${_NEXT_PUBLIC_SUPABASE_ANON_KEY}"
+      - "--build-arg"
+      - "NEXT_PUBLIC_GA_MEASUREMENT_ID=${_NEXT_PUBLIC_GA_MEASUREMENT_ID}"
+      - "-t"
+      - "europe-west1-docker.pkg.dev/${PROJECT_ID}/cloud-run-source-deploy/mastery-mind-ssr:latest"
+      - "."
+
+  # Push to Artifact Registry
+  - name: "gcr.io/cloud-builders/docker"
+    args:
+      - "push"
+      - "europe-west1-docker.pkg.dev/${PROJECT_ID}/cloud-run-source-deploy/mastery-mind-ssr:latest"
+
+  # Deploy to Cloud Run
+  - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
+    entrypoint: "gcloud"
+    args:
+      - "run"
+      - "deploy"
+      - "mastery-mind-ssr"
+      - "--image"
+      - "europe-west1-docker.pkg.dev/${PROJECT_ID}/cloud-run-source-deploy/mastery-mind-ssr:latest"
+      - "--region"
+      - "europe-west1"
+      - "--port"
+      - "8080"
+      - "--memory"
+      - "512Mi"
+      - "--cpu"
+      - "1"
+      - "--min-instances"
+      - "0"
+      - "--max-instances"
+      - "3"
+      - "--allow-unauthenticated"
+      - "--set-env-vars"
+      - "NEXT_PUBLIC_SUPABASE_URL=${_NEXT_PUBLIC_SUPABASE_URL},NEXT_PUBLIC_SUPABASE_ANON_KEY=${_NEXT_PUBLIC_SUPABASE_ANON_KEY}"
+
+substitutions:
+  _NEXT_PUBLIC_SUPABASE_URL: "https://xnnrgnazirrqvdgfhvou.supabase.co"
+  _NEXT_PUBLIC_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhubnJnbmF6aXJycXZkZ2Zodm91Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAzMDIwNTksImV4cCI6MjA4NTg3ODA1OX0.guowfk6ylii0pwapxL5mkvKIeu11DX9dpDHfeW8KYW8"
+  _NEXT_PUBLIC_GA_MEASUREMENT_ID: ""
+
+images:
+  - "europe-west1-docker.pkg.dev/${PROJECT_ID}/cloud-run-source-deploy/mastery-mind-ssr:latest"
+
+options:
+  logging: CLOUD_LOGGING_ONLY
