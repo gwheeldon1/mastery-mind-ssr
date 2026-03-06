@@ -1,0 +1,20 @@
+{
+    "name": "perplexity-pipeline",
+    "type": "module",
+    "scripts": {
+        "step1": "npx tsx step1.ts",
+        "step2": "npx tsx step2.ts",
+        "step3": "npx tsx step3.ts",
+        "step4": "npx tsx step4.ts",
+        "apply": "npx tsx apply.ts",
+        "all": "npx tsx step1.ts && npx tsx step2.ts && npx tsx step3.ts && npx tsx step4.ts"
+    },
+    "dependencies": {
+        "@supabase/supabase-js": "^2.49.1",
+        "dotenv": "^16.4.7"
+    },
+    "devDependencies": {
+        "tsx": "^4.19.0",
+        "typescript": "^5.7.3"
+    }
+}

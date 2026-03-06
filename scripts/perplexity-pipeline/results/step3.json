@@ -1,0 +1,578 @@
+{
+  "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3": [
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.1",
+      "topic_name": "Introductory Topics in Psychology",
+      "bucket": "THEMATIC",
+      "content": {
+        "topic_synopsis": "Introductory Topics in Psychology (3.1) comprises four foundational areas examined across Paper 1: Social Influence, Memory, Attachment, and Clinical Psychology and Mental Health. This topic develops students' knowledge and understanding of core psychological principles and research methods, establishing essential frameworks for understanding human behaviour. Students engage with psychological theories, empirical evidence, and critical evaluation skills, preparing them for advanced study in psychology and related fields.",
+        "key_themes": [
+          {
+            "theme": "Social Influence",
+            "description": "Examined through psychological theories and research on how individuals are influenced by others and social contexts, developing understanding of conformity, obedience, and group behaviour."
+          },
+          {
+            "theme": "Memory",
+            "description": "Explored through models and theories of how information is encoded, stored, and retrieved, with emphasis on research methods and practical applications."
+          },
+          {
+            "theme": "Attachment",
+            "description": "Investigated through theories of emotional bonds and relationships, examining developmental psychology and the significance of early relationships."
+          },
+          {
+            "theme": "Clinical Psychology and Mental Health",
+            "description": "Covers definitions of abnormality including deviation from social norms, deviation from ideal mental health, failure to function adequately, and statistical infrequency. Examines classification and diagnosis of mental health disorders using frameworks such as DSM and ICD systems."
+          },
+          {
+            "theme": "Research Methods and Practical Skills",
+            "description": "Integrated throughout the topic, with assessment of knowledge and understanding of research methods, practical research skills, and mathematical skills through ethical practical research activities."
+          }
+        ],
+        "named_examples": [
+          {
+            "example": "Cognitive Behavioural Therapy (CBT)",
+            "context": "Therapeutic approach examined within Clinical Psychology and Mental Health for treating mood disorders and anxiety conditions.",
+            "significance": "Demonstrates practical application of psychological theory to treatment; students critically evaluate efficacy and limitations of therapeutic approaches."
+          },
+          {
+            "example": "Depression, Phobias, and Obsessive-Compulsive Disorder (OCD)",
+            "context": "Prominent psychological disorders studied within Clinical Psychology and Mental Health, examined from biological, psychological, and socio-cultural perspectives.",
+            "significance": "Illustrates multi-faceted aetiologies of mental health conditions and the complex interplay of factors contributing to psychological abnormalities."
+          }
+        ],
+        "key_terminology": [
+          {
+            "term": "Deviation from ideal mental health",
+            "definition": "A definition of abnormality in mental health contexts, used within Clinical Psychology and Mental Health to identify when individuals deviate from optimal psychological functioning."
+          },
+          {
+            "term": "Deviation from social/cultural norms",
+            "definition": "A definition of abnormality based on behaviour that violates accepted social or cultural standards within a given society."
+          },
+          {
+            "term": "Failure to function adequately",
+            "definition": "A definition of abnormality referring to inability to meet daily demands or maintain personal well-being and social functioning."
+          },
+          {
+            "term": "Statistical infrequency",
+            "definition": "A definition of abnormality based on behaviours or characteristics that occur rarely within a population distribution."
+          },
+          {
+            "term": "DSM and ICD systems",
+            "definition": "Essential classification and diagnostic frameworks for identifying and categorising mental health issues, examined within Clinical Psychology and Mental Health."
+          },
+          {
+            "term": "Aetiology",
+            "definition": "The causes or origins of psychological disorders, examined from biological, psychological, and socio-cultural perspectives."
+          }
+        ],
+        "debates": [
+          {
+            "debate": "Defining abnormality in mental health",
+            "positions": [
+              "Abnormality as deviation from ideal mental health standards",
+              "Abnormality as deviation from social/cultural norms",
+              "Abnormality as failure to function adequately",
+              "Abnormality as statistical infrequency"
+            ]
+          },
+          {
+            "debate": "Aetiological perspectives on mental disorders",
+            "positions": [
+              "Biological explanations emphasising genetic and neurochemical factors",
+              "Psychological explanations focusing on cognition, learning, and emotion",
+              "Socio-cultural explanations examining environmental and social influences"
+            ]
+          },
+          {
+            "debate": "Efficacy and limitations of therapeutic approaches",
+            "positions": [
+              "Effectiveness of cognitive behavioural therapy and other evidence-based treatments",
+              "Limitations and contextual factors affecting treatment outcomes"
+            ]
+          }
+        ]
+      },
+      "extracted_at": "2026-03-05T23:15:54.066Z"
+    },
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.2",
+      "topic_name": "Psychology in Context",
+      "bucket": "THEMATIC",
+      "content": {
+        "topic_synopsis": "3.2 Psychology in Context covers approaches in psychology, psychopathology, and research methods, assessed in Paper 2 (2 hours, 96 marks, 33.3% of A-level). Students demonstrate AO1 knowledge of concepts/theories/studies/methods, AO2 application in contexts, and AO3 analysis/evaluation, including therapies' appropriateness/effectiveness. Develops practical skills in designing/conducting/analysing ethical research with mathematical/ICT elements, focusing on scientific processes, reliability/validity, and real-world implications.[1][2]",
+        "key_themes": [
+          {
+            "theme": "Approaches in Psychology",
+            "description": "Basic assumptions of learning (behaviourist: classical/operant conditioning; social learning), cognitive (internal processes, schema, models), biological (genotype/phenotype, neurochemistry, neuroscience), psychodynamic (unconscious, Id/Ego/Superego, defence mechanisms, psychosexual stages), humanistic (free will, self-actualisation, Maslow, congruence); comparison of approaches.[1]"
+          },
+          {
+            "theme": "Psychopathology",
+            "description": "Definitions of abnormality, characteristics/treatments of phobias/depression/OCD; biological explanations/treatments for OCD (genetic/neural, drug therapy).[1][3]"
+          },
+          {
+            "theme": "Research Methods",
+            "description": "Experimental/observational/self-report/correlational/content analysis/case study methods; scientific processes (aims/hypotheses/sampling/pilot/experimental designs/variables/control/ethics/peer review/reliability/validity/science features/reporting).[1]"
+          }
+        ],
+        "named_examples": [
+          {
+            "example": "Pavlov’s research",
+            "context": "Classical conditioning in behaviourist approach",
+            "significance": "Illustrates learning through association.[1]"
+          },
+          {
+            "example": "Skinner’s research",
+            "context": "Operant conditioning and reinforcement types in behaviourist approach",
+            "significance": "Demonstrates behaviour shaped by consequences.[1]"
+          },
+          {
+            "example": "Bandura’s research",
+            "context": "Social learning theory (imitation/identification/vicarious reinforcement/mediational processes)",
+            "significance": "Shows observational learning.[1]"
+          },
+          {
+            "example": "Maslow’s hierarchy of needs",
+            "context": "Humanistic approach (self-actualisation)",
+            "significance": "Explains motivation towards personal growth.[1]"
+          }
+        ],
+        "key_terminology": [
+          {
+            "term": "Classical conditioning",
+            "definition": "Learning through association, as in Pavlov’s research (behaviourist approach).[1]"
+          },
+          {
+            "term": "Operant conditioning",
+            "definition": "Learning through reinforcement/consequences, as in Skinner’s research (behaviourist approach).[1]"
+          },
+          {
+            "term": "Schema",
+            "definition": "Cognitive structures for processing information (cognitive approach).[1]"
+          },
+          {
+            "term": "Genotype",
+            "definition": "Genetic makeup influencing behaviour (biological approach).[1]"
+          },
+          {
+            "term": "Id, Ego, Superego",
+            "definition": "Personality structures (psychodynamic approach).[1]"
+          },
+          {
+            "term": "Self-actualisation",
+            "definition": "Realising full potential (humanistic approach).[1]"
+          },
+          {
+            "term": "Directional hypothesis",
+            "definition": "Predicts direction of relationship/effect (scientific processes).[1]"
+          },
+          {
+            "term": "Demand characteristics",
+            "definition": "Cues influencing participant behaviour (research methods).[1]"
+          },
+          {
+            "term": "Ecological validity",
+            "definition": "Extent findings generalise to real life (validity types).[1]"
+          }
+        ],
+        "debates": [
+          {
+            "debate": "Comparison of approaches",
+            "positions": [
+              "Learning (behaviour determined by conditioning/social observation)",
+              "Cognitive (internal mental processes via schema/models)",
+              "Biological (genetic/biological structures/neurochemistry)",
+              "Psychodynamic (unconscious drives/personality structures)",
+              "Humanistic (free will/self-actualisation)"
+            ]
+          },
+          {
+            "debate": "Reliability vs Validity in methods",
+            "positions": [
+              "Prioritise reliability (test-retest/inter-observer)",
+              "Prioritise validity (face/concurrent/ecological/temporal)"
+            ]
+          },
+          {
+            "debate": "Ethics in research",
+            "positions": [
+              "BPS code prioritised (avoid harm)",
+              "Practical needs may require balancing issues in design/conduct"
+            ]
+          }
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:09.556Z"
+    },
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.3",
+      "topic_name": "Issues and Options in Psychology",
+      "bucket": "THEMATIC",
+      "content": {
+        "topic_synopsis": "3.3 Issues and Options in Psychology covers compulsory issues and debates in psychology plus three student-chosen optional topics from specified options, assessed in Paper 3 (120 minutes, 96 marks, 33.3% of A-level). It requires demonstrating AO1 knowledge, AO2 application, and AO3 evaluation of concepts, theories, studies, methods, and therapies, with integration of research methods and illustration from other specification topics. Significance lies in developing critical analysis of psychological explanations and real-world applications across diverse areas like mental health and behaviour.",
+        "key_themes": [
+          {
+            "theme": "Issues and debates in Psychology",
+            "description": "Compulsory content on gender/culture bias, free will/determinism, nature-nurture, holism/reductionism, idiographic/nomothetic approaches, and social sensitivity; illustrated with examples from other specification topics."
+          },
+          {
+            "theme": "Optional topics (one from each group)",
+            "description": "Group 1: Relationships, Gender, Cognition and development; Group 2: Schizophrenia, Eating behaviour, Stress; Group 3: Aggression, Forensic Psychology, Addiction; examined via multiple choice, short answer, and extended writing targeting AO1-AO3."
+          },
+          {
+            "theme": "Research methods integration",
+            "description": "Assessed through practical skills in designing, conducting, analysing research, with mathematical requirements, embedded in topic questions and scenario-based styles."
+          },
+          {
+            "theme": "Therapies and treatments",
+            "description": "Evaluation of appropriateness and effectiveness in optional topics, e.g., drug therapy, CBT, stress inoculation therapy."
+          }
+        ],
+        "named_examples": [
+          {
+            "example": "Social Readjustment Rating Scale",
+            "context": "Measuring stress via self-report scales",
+            "significance": "Used to assess life events' impact on stress levels in stress topic."
+          },
+          {
+            "example": "Hassles and Uplifts Scale",
+            "context": "Measuring stress via self-report scales",
+            "significance": "Evaluates daily minor stressors and uplifts in individual differences in stress."
+          },
+          {
+            "example": "Beck’s negative triad",
+            "context": "Cognitive approach to depression (cross-reference from psychopathology)",
+            "significance": "Illustrates issues like reductionism in debates section."
+          }
+        ],
+        "key_terminology": [
+          {
+            "term": "Androcentrism",
+            "definition": "Gender bias where theories centre on male experience, ignoring female perspectives."
+          },
+          {
+            "term": "Ethnocentrism",
+            "definition": "Cultural bias imposing one's own cultural standards on others."
+          },
+          {
+            "term": "Hard determinism",
+            "definition": "View that all behaviour is fully determined by prior causes, negating free will."
+          },
+          {
+            "term": "Biological reductionism",
+            "definition": "Explaining complex behaviour solely via biological processes like genes or neural activity."
+          },
+          {
+            "term": "Hardiness",
+            "definition": "Personality factor protecting against stress, involving commitment, challenge, and control."
+          },
+          {
+            "term": "Restraint theory",
+            "description": "Psychological explanation for obesity where chronic dieting leads to overeating and weight gain."
+          }
+        ],
+        "debates": [
+          {
+            "debate": "Free will and determinism",
+            "positions": [
+              "Hard determinism (behaviour fully caused by prior factors: biological, environmental, psychic)",
+              "Soft determinism (some free will within causal constraints)"
+            ]
+          },
+          {
+            "debate": "Nature-nurture",
+            "positions": [
+              "Nature (heredity/genetics primary)",
+              "Nurture (environment primary); interactionist approach"
+            ]
+          },
+          {
+            "debate": "Holism and reductionism",
+            "positions": [
+              "Holism (whole behaviour over parts)",
+              "Reductionism (environmental stimulus-response or biological levels)"
+            ]
+          },
+          {
+            "debate": "Idiographic and nomothetic",
+            "positions": [
+              "Idiographic (individual unique cases)",
+              "Nomothetic (general laws via scientific methods)"
+            ]
+          },
+          {
+            "debate": "Gender and culture bias",
+            "positions": [
+              "Universality (theories apply everywhere)",
+              "Bias (androcentrism/alpha-beta bias; ethnocentrism/cultural relativism)"
+            ]
+          }
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:18.400Z"
+    }
+  ],
+  "33ab7968-9425-4501-9c14-2bed70c6c97d": [
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.1",
+      "topic_name": "Cell biology",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology topic 4.1 Cell biology covers cell structure in eukaryotes and prokaryotes, specialisation and differentiation of cells, microscopy, culturing microorganisms, cell division by mitosis and the cell cycle, stem cells, and transport in cells. Students learn how subcellular structures relate to functions, the importance of mitosis for growth, and stem cell potential in embryos and adults. Emphasis is placed on order of magnitude calculations for cell size and recognising mitosis in contexts.",
+        "key_concepts": [
+          "Eukaryotic and prokaryotic cell structures",
+          "Subcellular structures and their functions (nucleus, cytoplasm, cell membrane, mitochondria, chloroplasts, plasmids)",
+          "Cell specialisation (sperm, nerve, muscle, root hair, xylem, phloem cells)",
+          "Cell differentiation and its importance",
+          "Mitosis and the cell cycle stages",
+          "Stem cells in embryos and adult bone marrow",
+          "Chromosomes and genes in body cells"
+        ],
+        "learning_objectives": [
+          "Explain how the main sub-cellular structures are related to their functions",
+          "Describe the stages of the cell cycle, including mitosis",
+          "Explain the importance of cell differentiation",
+          "When provided with appropriate information, explain how the structure of different types of cell relate to their function",
+          "Describe the function of stem cells in embryos, in adult animals (including in bone marrow) and in plants",
+          "Demonstrate an understanding of the scale and size of cells and be able to make order of magnitude calculations, including the use of standard form"
+        ],
+        "tier_differentiation": {
+          "foundation": "Core content on cell structures, specialisation, mitosis, cell cycle, stem cells, and basic microscopy",
+          "higher": "Additional details on culturing microorganisms, advanced microscopy calculations, and deeper stem cell applications (HT only indicated for specific content)"
+        },
+        "synoptic_links": [
+          "4.2 Organisation - cell specialisation links to tissues, organs and organ systems",
+          "4.6 Inheritance - chromosomes, genes and DNA relate to genetic material in nucleus",
+          "4.4 Bioenergetics - mitochondria function connects to respiration"
+        ],
+        "misconceptions": [
+          "All phases of mitosis need to be known in detail - students only need the three overall stages of the cell cycle",
+          "Body cells do not have chromosomes in pairs - in body cells chromosomes are normally found in pairs"
+        ],
+        "required_practicals": [
+          "Use of microscopy (4.1.1.5) - students observe and identify cell structures using light microscopes",
+          "Culturing microorganisms (4.1.1.6 biology only) - aseptic techniques to investigate growth on agar plates"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:24.397Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.2",
+      "topic_name": "Organisation",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology topic 4.2 Organisation covers principles of organisation from cells to organisms, animal tissues organs and organ systems including the human digestive system enzymes the heart blood vessels blood and cancer and plant tissues organs and systems. It emphasises how specialised cells form tissues that aggregate into organs and organ systems to perform specific functions such as nutrient absorption gas exchange and transport in blood. Damage to these systems like coronary heart disease or cancer highlights health issues linked to lifestyle risk factors.[2][3][4]",
+        "key_concepts": [
+          "Cells are the basic building blocks of all living organisms",
+          "A tissue is a group of cells with a similar structure and function",
+          "Organs are aggregations of tissues performing specific functions",
+          "Organs are organised into organ systems which work together to form organisms",
+          "Blood is a tissue consisting of plasma red blood cells white blood cells and platelets",
+          "Cancer is uncontrolled cell division forming a tumour"
+        ],
+        "learning_objectives": [
+          "Students should be able to recognise cells tissues organs organ systems and organisms from diagrams micrographs and photographs",
+          "Students should be able to describe the structure and function of blood components including plasma red blood cells white blood cells and platelets",
+          "Students should be able to explain how cancer results from uncontrolled cell division"
+        ],
+        "tier_differentiation": {
+          "foundation": "Principles of organisation from cells to organisms animal tissues including blood plant tissues organs and systems",
+          "higher": "Detailed structures and functions of blood components risk factors for non-communicable diseases like cancer and coronary heart disease interactions between diseases"
+        },
+        "synoptic_links": [
+          "4.1 Cell biology - specialised cells as building blocks of tissues",
+          "4.3 Infection and response - white blood cells in immune response",
+          "4.4 Bioenergetics - digestive system providing nutrients for respiration"
+        ],
+        "misconceptions": [
+          "Blood is a fluid not a tissue - it is a tissue with plasma as fluid matrix suspending cells and platelets[2]",
+          "All white blood cells are the same - they have different functions some produce antibodies others engulf pathogens[2]"
+        ],
+        "required_practicals": [
+          "Food tests - use of qualitative reagents to test for presence of carbohydrates proteins and lipids",
+          "Enzymes - investigation of effect of pH or temperature on enzyme activity"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:31.454Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.3",
+      "topic_name": "Infection and response",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology topic 4.3 Infection and response covers communicable diseases caused by pathogens including viruses, bacteria, protists and fungi, with specific focus on protist diseases like malaria, viral diseases like measles and HIV, and plant diseases such as rose black spot. It examines human defence systems including phagocytosis, antibody and antitoxin production by white blood cells, vaccination for herd immunity, antibiotics for bacterial infections, and the discovery and development of drugs through preclinical and clinical trials. Higher tier content includes monoclonal antibodies production and uses, alongside plant disease detection and defence responses.",
+        "key_concepts": [
+          "Pathogens (viruses, bacteria, protists, fungi)",
+          "Protist diseases (malaria spread by mosquitoes)",
+          "Vaccination (dead/inactivated pathogen stimulates antibodies)",
+          "Antibiotics (kill bacteria, not viruses; resistance concern)",
+          "Painkillers (relieve symptoms)",
+          "Discovery and development of drugs (preclinical testing, clinical trials, placebos)",
+          "Monoclonal antibodies (HT: production from mouse hybridoma cells, uses in pregnancy tests and cancer treatment)",
+          "Plant diseases (detection by visual symptoms/staining, defence responses like abscisic acid)"
+        ],
+        "learning_objectives": [
+          "Students should be able to describe how malaria is spread and its symptoms, and explain how its spread can be controlled.",
+          "Students should be able to explain how vaccination prevents illness and how herd immunity reduces pathogen spread.",
+          "Students should be able to describe how antibiotics such as penicillin cure bacterial disease and explain antibiotic resistance and why they do not treat viral infections.",
+          "Students should be able to explain the non-specific defence systems of the human body and the role of white blood cells in phagocytosis, antibody production and antitoxin production.",
+          "Students should be able to describe how new drugs are synthesised, tested preclinically and in clinical trials including double-blind trials with placebos.",
+          "Students should be able to describe how monoclonal antibodies are produced (HT only) and their uses including in pregnancy tests and cancer treatment.",
+          "Students should be able to describe detection and identification of plant diseases using visual symptoms, microscopy and staining, and plant defence responses (HT only)."
+        ],
+        "tier_differentiation": {
+          "foundation": "Communicable diseases including protist diseases (malaria), vaccination, antibiotics and painkillers, discovery of drugs, human defence systems.",
+          "higher": "Monoclonal antibodies (production and uses), plant disease (detection/identification and defence responses); extended explanations of resistance, trials and herd immunity."
+        },
+        "synoptic_links": [
+          "4.2 Organisation - links to effects of pathogens on tissues/organs (e.g. bacterial toxins damaging tissues)",
+          "4.1 Cell biology - white blood cell mechanisms (phagocytosis), virus reproduction inside cells",
+          "4.7 Ecology - controlling disease spread (e.g. vectors like mosquitoes in ecosystems)"
+        ],
+        "misconceptions": [
+          "Antibiotics treat viral infections - they only target bacteria, viruses reproduce inside cells and are unaffected.",
+          "Vaccines contain live pathogens - they use dead or inactivated forms to safely stimulate immunity.",
+          "HIV immediately causes AIDS - initial flu-like symptoms progress to AIDS only if untreated, damaging immune cells over time."
+        ],
+        "required_practicals": []
+      },
+      "extracted_at": "2026-03-05T23:16:38.115Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.4",
+      "topic_name": "Bioenergetics",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology 4.4 Bioenergetics covers photosynthesis as an endothermic reaction producing glucose from carbon dioxide and water using light energy in chloroplasts, and cellular respiration as an exothermic reaction transferring energy for living processes, occurring aerobically or anaerobically. Key subtopics include the uses of glucose from photosynthesis, factors affecting photosynthesis rate (with a required practical on light intensity), responses to exercise, and metabolism as the sum of all chemical reactions in cells. The topic emphasises energy transfers and links to plant biology and economics of greenhouses.",
+        "key_concepts": [
+          "Photosynthesis equation: carbon dioxide + water → glucose + oxygen",
+          "Photosynthesis as endothermic reaction",
+          "Cellular respiration as exothermic reaction",
+          "Aerobic vs anaerobic respiration: oxygen use, products, energy yield",
+          "Limiting factors on rate of photosynthesis: temperature, light intensity, CO2 concentration, chlorophyll",
+          "Uses of glucose: starch storage, cellulose for cell walls, fats/oils, proteins, respiration",
+          "Metabolism: sum of all chemical reactions in cells including respiration and conversion of glucose",
+          "Response to exercise: increased heart rate, breathing rate, muscle fatigue from lactic acid"
+        ],
+        "learning_objectives": [
+          "Students should be able to describe photosynthesis as an endothermic reaction in which energy is transferred from the environment to the chloroplasts by light.",
+          "Students should be able to explain the effects of temperature, light intensity, carbon dioxide concentration, and the amount of chlorophyll on the rate of photosynthesis.",
+          "Students should be able to compare the processes of aerobic and anaerobic respiration with regard to the need for oxygen, the differing products and the relative amounts of energy transferred.",
+          "Students should be able to describe cellular respiration as an exothermic reaction which is continuously occurring in living cells to supply energy for living processes.",
+          "Students should be able to explain how muscle cells increase energy supply during exercise through increased respiration and oxygen delivery.",
+          "Students should be able to define metabolism as the sum of all the reactions in a cell or the body."
+        ],
+        "tier_differentiation": {
+          "foundation": "Core content on photosynthesis equation, rate factors, aerobic and anaerobic respiration processes, basic response to exercise, and metabolism definition.",
+          "higher": "Inverse square law and inverse proportion for light intensity; economics of limiting factors in greenhouses; detailed energy transfers and products in anaerobic respiration (lactic acid); metabolism including synthesis of larger molecules."
+        },
+        "synoptic_links": [
+          "Plant tissues and the leaf - structure for photosynthesis",
+          "Photosynthetic reaction and aerobic/anaerobic respiration - essential reactions for life on Earth",
+          "Metabolism - molecules made or broken down, linking to organisation and ecology",
+          "How materials are cycled - glucose and products recycled between living world and environment"
+        ],
+        "misconceptions": [],
+        "required_practicals": [
+          "Required practical activity 6: investigate the effect of light intensity on the rate of photosynthesis using an aquatic organism such as pondweed."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:52.787Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.5",
+      "topic_name": "Homeostasis and response",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology topic 4.5 Homeostasis and response covers the regulation of internal conditions in cells and organisms to maintain optimum conditions for function in response to internal and external changes, including blood glucose concentration, body temperature, and water levels. Automatic control systems involve receptors that detect stimuli, coordination centres such as the brain, spinal cord, and pancreas that process information, and effectors like muscles or glands that restore optimum levels through nervous or chemical (endocrine) responses. Students explore the human nervous system for fast responses, hormonal control in humans for processes like blood glucose regulation and menstrual cycle, and plant hormones.",
+        "key_concepts": [
+          "Homeostasis as regulation of internal conditions for optimum enzyme action and cell function",
+          "Automatic control systems: receptors, coordination centres, effectors",
+          "Negative feedback mechanisms",
+          "Nervous system for fast electrical impulse responses",
+          "Endocrine system for slower hormonal responses via bloodstream",
+          "Control of blood glucose concentration by pancreas (insulin, glucagon)",
+          "Human nervous system structure and reflex arcs",
+          "Hormonal coordination of menstrual cycle and reproduction",
+          "Plant hormones: auxins in tropisms"
+        ],
+        "learning_objectives": [
+          "Explain that homeostasis is the regulation of the internal conditions of a cell or organism to maintain optimum conditions for function in response to internal and external changes",
+          "Describe the roles of receptors, coordination centres and effectors in automatic control systems",
+          "Explain how negative feedback maintains optimum levels",
+          "Describe the structure and function of the human nervous system including sense organs, neurones, synapses, brain structure and reflex arcs",
+          "Explain how hormonal coordination of reproduction in humans involves the menstrual cycle, oestrogen, progesterone, LH and FSH",
+          "Describe the control of blood glucose concentration by the pancreas and negative feedback",
+          "Investigate the effect of a factor on human reaction time (Required Practical 7)"
+        ],
+        "tier_differentiation": {
+          "foundation": "Core principles of homeostasis, negative feedback, basic structure of nervous system, reflex arcs, control of blood glucose concentration, basic hormonal roles",
+          "higher": "Detailed negative feedback loops (e.g. glucagon release when blood glucose too low), structure and role of brain regions, synapse details, hormonal control of menstrual cycle including FSH, LH, oestrogen, progesterone effects, plant hormones and tropisms"
+        },
+        "synoptic_links": [
+          "4.2 Organisation - links to organ systems like pancreas, glands, nervous system structure",
+          "4.4 Bioenergetics - blood glucose regulation connects to respiration and energy supply",
+          "4.1 Cell biology - optimum conditions for enzyme function relates to cell metabolism"
+        ],
+        "misconceptions": [
+          "Negative feedback is a positive process - it is corrective to restore normal levels, not amplify change",
+          "Nervous responses are always slower than hormonal - nervous uses fast electrical impulses, hormonal slower via blood",
+          "Homeostasis means completely constant levels - it maintains levels within narrow limits despite fluctuations"
+        ],
+        "required_practicals": [
+          "Required practical activity 7: plan and carry out an investigation into the effect of a factor on human reaction time"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:16:59.722Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.7",
+      "topic_name": "Ecology",
+      "bucket": "STEM",
+      "content": {
+        "topic_synopsis": "AQA GCSE Biology topic 4.7 Ecology covers communities and their interactions, organisation of ecosystems including material cycling and decomposition, and biodiversity with human impacts. Students learn about adaptations of organisms, interdependence in ecosystems, and methods to assess and maintain biodiversity. The topic emphasises practical investigations and evaluation of environmental changes, assessed in Paper 2.[1][3][8]",
+        "key_concepts": [
+          "Communities",
+          "Adaptations",
+          "Organisation of an ecosystem",
+          "How materials are cycled",
+          "Decomposition",
+          "Impact of environmental change",
+          "Biodiversity"
+        ],
+        "learning_objectives": [
+          "Students should be able to describe adaptations of organisms to their environment.",
+          "Students should be able to explain how materials are cycled between organisms and the environment.",
+          "Students should be able to understand the role of decomposition in nutrient recycling.",
+          "Students should be able to evaluate the impact of environmental changes on ecosystems.",
+          "Students should be able to explain the importance of biodiversity and methods to measure it."
+        ],
+        "tier_differentiation": {
+          "foundation": "Core understanding of communities, adaptations, ecosystems, material cycling, decomposition, environmental impacts and biodiversity.",
+          "higher": "Additional depth in analysing data on biodiversity, evaluating human impacts and methods to maintain biodiversity, with synoptic links."
+        },
+        "synoptic_links": [
+          "Bioenergetics - energy flow in ecosystems relates to metabolism.",
+          "Organisation - levels of organisation extend to ecological levels.",
+          "Key ideas - all molecules recycled between living world and environment."
+        ],
+        "misconceptions": [],
+        "required_practicals": [
+          "Investigations into effect of environmental changes on populations (e.g. distribution, abundance).",
+          "Sampling techniques using quadrats and transects to measure population sizes.",
+          "Measuring biodiversity using species richness or Simpson's index."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:17:17.336Z"
+    }
+  ]
+}

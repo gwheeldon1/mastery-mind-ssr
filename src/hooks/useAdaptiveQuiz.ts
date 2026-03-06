@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import { createClient } from "@/lib/supabase/client";
 import type { AIQuestion, UserContext } from "@/types/quiz";
 
 const DEFAULT_QUESTION_COUNT = 5;
@@ -18,7 +17,6 @@ interface UseAdaptiveQuizReturn {
 export function useAdaptiveQuiz(): UseAdaptiveQuizReturn {
     const [isGenerating, setIsGenerating] = useState(false);
     const [error, setError] = useState<string | null>(null);
-    const supabase = createClient();
 
     const generateQuestions = useCallback(
         async (
@@ -37,14 +35,21 @@ export function useAdaptiveQuiz(): UseAdaptiveQuizReturn {
                     customPrompt: userContext.customPrompt?.slice(0, 500),
                 };
 
-                const { data, error: fnError } = await supabase.functions.invoke(
-                    "generate-quiz",
-                    {
-                        body: { userContext: sanitizedContext, questionCount },
-                    }
-                );
+                const res = await fetch("/api/ai/quiz", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        userContext: sanitizedContext,
+                        questionCount,
+                    }),
+                });
 
-                if (fnError) throw new Error(fnError.message);
+                if (!res.ok) {
+                    const err = await res.json().catch(() => ({}));
+                    throw new Error(err.error || `API error: ${res.status}`);
+                }
+
+                const data = await res.json();
                 if (data?.error) throw new Error(data.error);
 
                 const questionsWithIds: AIQuestion[] = data.questions.map(
@@ -71,7 +76,7 @@ export function useAdaptiveQuiz(): UseAdaptiveQuizReturn {
                 setIsGenerating(false);
             }
         },
-        [supabase]
+        []
     );
 
     return { generateQuestions, isGenerating, error };

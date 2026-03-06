@@ -1,0 +1,494 @@
+{
+  "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3": [
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.1",
+      "topic_name": "Introductory Topics in Psychology",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for each correct description of a definition of abnormality (max 4).",
+          "Credit application of definitions to a named disorder such as depression or phobia.",
+          "Award marks for evaluation points that contrast strengths and weaknesses of definitions with reference to issues such as cultural bias.",
+          "Credit responses that link clinical characteristics of disorders to diagnostic criteria in DSM/ICD.",
+          "Award 1 mark per valid evaluation of CBT efficacy supported by research evidence."
+        ],
+        "common_mistakes": [
+          "Students often confuse the four definitions of abnormality, mixing deviation from social norms with statistical infrequency.",
+          "Many candidates describe clinical characteristics without linking to specific diagnostic criteria from DSM or ICD.",
+          "Evaluation responses frequently lack balance, presenting only strengths or weaknesses without comparison.",
+          "Students commonly misapply memory models to attachment studies or social influence research."
+        ],
+        "exam_tips": [
+          "For AQA Paper 1, allocate time strictly: 24 marks per section (Social Influence, Memory, Attachment, Psychopathology) in 2 hours.",
+          "Practice extended writing for 16-mark essays by structuring PEEL (Point, Evidence, Explanation, Link) to hit AO3 evaluation.",
+          "Memorise key studies verbatim for AO1 and apply them specifically to command words in AO2 questions.",
+          "Use specification terminology precisely, e.g., 'deviation from ideal mental health' rather than generic phrases."
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2",
+          "Describe": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 33,
+          "AO2": 35,
+          "AO3": 32
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of definitions without application or evaluation; superficial descriptions of studies.",
+          "grade_boundary_high": "Balanced evaluation with comparison of perspectives; precise application of theory to novel scenarios; critical analysis of methodological issues."
+        },
+        "feedback_prompts": [
+          "Excellent use of psychological terminology - next, integrate more contemporary research to strengthen AO3.",
+          "Good AO1 knowledge; develop application by linking theory directly to the scenario provided.",
+          "Strengthen evaluation by balancing points and using connectives like 'however' and 'whereas'.",
+          "Well-structured response; ensure all four definitions of abnormality are covered for full marks.",
+          "Precise recall of studies; practise timing to fully develop evaluation paragraphs."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:31:47.322Z"
+    },
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.2",
+      "topic_name": "Psychology in Context",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for identification of the dependent variable and 1 mark for correct operationalisation (e.g., 'number of verbal errors')[2]",
+          "Credit responses that make clear links between the theory and all individuals/characters in the scenario for effective application (AO2)[3]",
+          "Award marks for AO1 knowledge (up to 6 marks) and AO3 evaluation/application (up to 10 marks) in 16-mark extended writing questions[6]",
+          "Credit use of appropriate measure of central tendency with justification (e.g., mean when no anomalies present)[2]",
+          "Award 1 mark per correct inference linked explicitly to the study/item provided[2]"
+        ],
+        "common_mistakes": [
+          "Students often identify variables imprecisely (e.g., 'verbal errors' instead of 'number of verbal errors'), losing the second mark[2]",
+          "Failure to mention all individuals in multi-person scenarios, preventing top band application marks[3]",
+          "Incorrectly balancing AO1 and AO3 in extended questions, with too much description and insufficient evaluation[6]",
+          "Choosing inappropriate central tendency measures without justification, such as median when mean is undistorted[2]"
+        ],
+        "exam_tips": [
+          "Spend half your time on Section C (Research Methods, 48 marks) in Paper 2, prioritising mathematical and practical skills questions[1]",
+          "Structure 16-mark essays with clear introduction, alternating strengths/weaknesses, and conclusion to demonstrate coherent reasoning[2]",
+          "Always link explanations and applications explicitly to the stem/item, using phrases like 'in relation to the study'[2]",
+          "Practice operationalising variables and selecting measures of central tendency with worked examples for research methods[2]"
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe",
+          "Identify",
+          "Design"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO3",
+          "Describe": "AO1",
+          "Identify": "AO1",
+          "Design": "AO2"
+        },
+        "ao_emphasis": {
+          "AO1": 33,
+          "AO2": 35,
+          "AO3": 32
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic identification and description without application to material or evaluation, missing operationalisation and links to scenarios",
+          "grade_boundary_high": "Effective application to all scenario elements, balanced evaluation with contrasting points, precise operationalisation, and justified analysis of methods/maths"
+        },
+        "feedback_prompts": [
+          "Excellent application to the scenario – next time ensure evaluation points are contrasted for deeper analysis.",
+          "Good knowledge demonstrated; develop this by linking explicitly to all characters in the stem for full AO2 marks.",
+          "Structure is clear – strengthen by justifying choices (e.g., measures of central tendency) with reference to data features.",
+          "Precise variable identification; extend evaluation with real-world implications or alternative methods for top band.",
+          "Well-balanced AO1/AO3 – practice more research methods calculations to secure mathematical skills marks."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:31:53.733Z"
+    },
+    {
+      "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+      "topic_number": "3.3",
+      "topic_name": "Issues and Options in Psychology",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for each correct description of an issue or debate with appropriate example from specification content.",
+          "Credit responses that clearly apply issues and debates to optional topics using named studies or theories.",
+          "Award marks for AO3 evaluation points that are balanced, specific and linked to methodological or theoretical limitations.",
+          "Credit application of knowledge to novel scenarios in optional topics, demonstrating AO2 through relevant examples.",
+          "Award full marks in extended writing for coherent structure with introduction, balanced argument and conclusion."
+        ],
+        "common_mistakes": [
+          "Students often describe issues without illustrating using examples from other specification topics.",
+          "Confusing soft and hard determinism, failing to distinguish positions accurately.",
+          "Generic evaluation in optional topics without reference to specific studies or real-world application.",
+          "Misapplying therapies to wrong disorders, e.g., using CBT for schizophrenia without interactionist context."
+        ],
+        "exam_tips": [
+          "For AQA Paper 3, always link issues and debates to your chosen optional topics for higher AO2 marks.",
+          "Practice extended writing under timed conditions to develop sustained lines of reasoning as per specification.",
+          "Use specification-named examples like SRRS or Hassles scale precisely in stress responses.",
+          "Integrate research methods skills in all answers, especially data interpretation in scenario questions."
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe",
+          "Discuss",
+          "Outline"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO3",
+          "Describe": "AO1",
+          "Discuss": "AO1/AO3",
+          "Outline": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 33,
+          "AO2": 35,
+          "AO3": 32
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of definitions without application or evaluation; superficial descriptions lacking specificity.",
+          "grade_boundary_high": "Sophisticated evaluation integrating multiple perspectives, methodological critique and real-world implications with precise examples."
+        },
+        "feedback_prompts": [
+          "Excellent use of named examples to illustrate debates - next, balance positive and negative evaluation points.",
+          "Good AO1 knowledge; develop AO2 by applying concepts directly to the stem scenario provided.",
+          "Structure your extended response more logically to sustain a clear line of reasoning throughout.",
+          "Strengthen AO3 by linking evaluations to issues like reductionism or cultural bias where relevant.",
+          "Precise terminology used effectively - now integrate research methods analysis for fuller marks."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:32:00.761Z"
+    }
+  ],
+  "33ab7968-9425-4501-9c14-2bed70c6c97d": [
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.1",
+      "topic_name": "Cell biology",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for each correct subcellular structure linked to its function (max 4)",
+          "Credit responses that correctly identify the three stages of the cell cycle: growth/DNA replication; mitosis; cytoplasmic division",
+          "Award 1 mark for each adaptation of a specialised cell explained in relation to its function (e.g. root hair cell: elongated for increased surface area)",
+          "Credit calculations using πr² for cross-sectional areas of bacterial colonies or magnification formulas for microscopy",
+          "Award marks for recognising mitosis in a diagram or context by identifying chromosome separation"
+        ],
+        "common_mistakes": [
+          "Students often confuse prokaryotic and eukaryotic cells by including a nucleus in bacterial cells",
+          "Many candidates describe all mitosis phases in detail instead of focusing on the three main cell cycle stages",
+          "Frequent errors in order of magnitude calculations for cell size, particularly converting between units or using standard form",
+          "Students typically fail to link stem cell functions specifically to embryos (totipotent), adult bone marrow (blood cells) or plant meristems"
+        ],
+        "exam_tips": [
+          "For AQA, practise explaining cell specialisation using provided diagrams or data, linking structure directly to function for AO2 marks",
+          "Memorise the three cell cycle stages exactly as per specification to avoid losing easy AO1 marks on mitosis questions",
+          "Use standard form confidently in microscopy calculations; always show working for partial credit on maths-based questions",
+          "In stem cell questions, evaluate using specification points on ethical issues, risks and benefits for higher marks"
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2",
+          "Describe": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 40,
+          "AO2": 40,
+          "AO3": 20
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of cell structures without linking to function; incorrect cell cycle stages",
+          "grade_boundary_high": "Precise calculations for magnification/resolution; full evaluations of stem cells with balanced risks/benefits"
+        },
+        "feedback_prompts": [
+          "Link each subcellular structure explicitly to its role for full marks",
+          "Focus on the three key cell cycle stages rather than listing all mitosis phases",
+          "Practise standard form in microscopy questions to secure AO2 marks",
+          "Use comparative language when explaining specialisation for higher level responses",
+          "Balance ethical arguments in stem cell evaluations to access top band"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:32:07.448Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.3",
+      "topic_name": "Infection and response",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for stating that vaccines contain harmless versions of the pathogen (dead or inactivated).",
+          "Credit responses that correctly identify phagocytosis as engulfing pathogens by white blood cells.",
+          "Award 1 mark for explaining that antibiotics target bacteria by preventing cell wall formation (e.g. penicillin).",
+          "Credit answers that describe monoclonal antibodies as produced by fusing mouse lymphocytes with tumour cells.",
+          "Award 1 mark for herd immunity occurring when a large proportion of the population is immunised."
+        ],
+        "common_mistakes": [
+          "Students often state that antibiotics treat viral infections instead of recognising they only affect bacteria.",
+          "Many candidates confuse the stages of drug trials, mixing preclinical lab testing with clinical volunteer phases.",
+          "Frequent error in describing malaria transmission as direct human contact rather than via mosquito vectors.",
+          "Pupils commonly describe vaccines as containing live pathogens that cause mild disease."
+        ],
+        "exam_tips": [
+          "For AQA specifically, practise explaining mechanisms like phagocytosis and antibody production using bullet points for clear AO2 marks.",
+          "In higher tier questions on monoclonal antibodies, always link production method (hybridoma cells) to specific uses like cancer treatment.",
+          "Use exam-style past papers from PMT to identify patterns in plant disease questions, focusing on visual symptoms and staining for detection.",
+          "When evaluating antibiotic resistance, reference specific examples like gonorrhoea to access AO3 marks."
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2",
+          "Describe": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 40,
+          "AO2": 40,
+          "AO3": 20
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of pathogen types and symptoms without linking to transmission or defence mechanisms.",
+          "grade_boundary_high": "Detailed explanations of processes like clinical trials (double-blind, placebos) and higher-only content such as plant defence responses with abscisic acid."
+        },
+        "feedback_prompts": [
+          "Excellent recall of key terms; now practise linking these to 'how' and 'why' questions for AO2.",
+          "Good start on describing vaccination; extend by explaining herd immunity with a population example.",
+          "Avoid confusing bacteria and viruses - revisit why antibiotics fail against viruses.",
+          "Strong on monoclonal antibody uses; next, describe the hybridoma production process accurately.",
+          "Well done on plant disease symptoms; add microscopy/staining methods for full marks."
+        ]
+      },
+      "extracted_at": "2026-03-05T23:32:25.207Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.4",
+      "topic_name": "Bioenergetics",
+      "strategy": [
+        1
+      ],
+      "extracted_at": "2026-03-05T23:32:30.968Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.5",
+      "topic_name": "Homeostasis and response",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for defining homeostasis as the regulation of internal conditions to maintain optimum levels for enzyme action and cell function",
+          "Credit responses that correctly identify receptors, coordination centres and effectors in automatic control systems",
+          "Award 1 mark for each correctly described step in a negative feedback loop (e.g. detection of change, response to restore optimum levels)",
+          "Credit diagrams or descriptions of reflex arcs showing sensory, relay and motor neurones",
+          "Award marks for explaining roles of insulin and glucagon in blood glucose control via negative feedback",
+          "Credit accurate descriptions of hormone interactions (FSH, LH, oestrogen, progesterone) in the menstrual cycle (HT only)"
+        ],
+        "common_mistakes": [
+          "Students often confuse negative feedback with positive feedback, describing amplification rather than correction of changes",
+          "Many candidates mix up nervous and hormonal responses, stating nervous impulses are slower than hormones",
+          "Frequent errors in describing reflex arcs, omitting relay neurones or incorrect synapse function",
+          "Incorrectly stating homeostasis maintains completely constant levels rather than within narrow limits",
+          "Failure to link blood glucose changes to insulin/glucagon release with specific effects on liver cells"
+        ],
+        "exam_tips": [
+          "For AQA, practise interpreting graphs of blood glucose, hormone levels and reaction times from Required Practicals 7 and 8",
+          "For AQA, always include 'negative feedback' explicitly in explanations of homeostasis mechanisms like blood glucose and water balance",
+          "For AQA higher tier, detail brain regions (cerebral cortex, medulla) and synapse transmission in nervous system questions",
+          "For AQA, use specification keywords like 'receptors detect stimuli', 'effectors bring about responses' for full AO1 marks",
+          "For AQA, distinguish foundation (basic roles) from higher (detailed loops, plant tropisms with auxin distribution)"
+        ],
+        "likely_command_words": [
+          "State",
+          "Describe",
+          "Explain",
+          "Evaluate",
+          "Compare"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Describe": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2"
+        },
+        "ao_emphasis": {
+          "AO1": 40,
+          "AO2": 40,
+          "AO3": 20
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of homeostasis definition and simple labelling of reflex arc; limited application to graphs or scenarios",
+          "grade_boundary_high": "Detailed negative feedback explanations with examples (e.g. glucagon effect); accurate data interpretation from graphs and evaluation of control system effectiveness"
+        },
+        "feedback_prompts": [
+          "Excellent use of key terms like 'negative feedback' – next, link to specific hormones for full explanation",
+          "Good description of reflex arc; improve by including synapse role and why it is fast",
+          "Recall of homeostasis is accurate; practise applying to graph data for AO2 marks",
+          "Strong on plant hormones; extend to evaluate advantages of tropisms in survival",
+          "Clear structure in answer; ensure all steps of control system (receptor, centre, effector) are covered"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:32:39.586Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.6",
+      "topic_name": "Inheritance, variation and evolution",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for identifying recessive allele",
+          "Credit 2 marks for explaining father has two recessive alleles (ff) and mother is carrier (Ff); son inherited one (f) recessive allele from each parent",
+          "Award 1 mark for dominant allele",
+          "Credit responses that correctly derive offspring genotypes from given gametes (e.g. 2 × 1 or 2 × 2 derivation)",
+          "Award 1 mark for all 4 correct in genetic diagram; 2 or 3 correct = 1 mark",
+          "Credit 1 mark for survivors pass on (beneficial) alleles to offspring"
+        ],
+        "common_mistakes": [
+          "From mark schemes: students often fail to identify both parents' genotypes correctly in inheritance calculations",
+          "Students frequently produce incomplete genetic diagrams missing gamete labels or offspring phenotypes",
+          "Candidates commonly confuse dominant and recessive inheritance patterns in probability questions",
+          "Many omit linking natural selection to passing on alleles/genes in evolution explanations"
+        ],
+        "exam_tips": [
+          "For AQA specifically, practise deriving Punnett squares step-by-step: label gametes, derive ratios, state phenotypes with allele symbols",
+          "In evolution questions, always link variation/mutation to survival advantage and reproduction over generations",
+          "Use specification keywords like 'phenotype', 'genotype', 'natural selection' precisely to secure AO1 marks",
+          "For 6-mark questions on selective breeding, structure answer: select parents → breed → select offspring → repeat generations"
+        ],
+        "likely_command_words": [
+          "State",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Describe"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2",
+          "Describe": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 40,
+          "AO2": 40,
+          "AO3": 20
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Basic recall of terms like recessive/dominant but no application to genotypes or ratios",
+          "grade_boundary_high": "Full genetic diagrams with correct ratios/phenotypes; links mutations to natural selection with reproductive advantage"
+        },
+        "feedback_prompts": [
+          "Next time, include both parental genotypes and explain allele inheritance for full marks",
+          "Excellent use of Punnett square - practise adding probabilities for phenotypes to extend",
+          "Link variation to survival and reproduction more explicitly to access AO2 marks",
+          "Strong recall of Mendel's ideas; apply to modern examples like antibiotic resistance for top grades",
+          "Structure longer answers with bullet points matching mark scheme bands"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:32:48.980Z"
+    },
+    {
+      "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+      "topic_number": "4.7",
+      "topic_name": "Ecology",
+      "strategy": {
+        "marking_points": [
+          "Award 1 mark for identifying a specific adaptation (structural, behavioural, or functional) that organisms possess to survive in their environment",
+          "Award 1 mark for explaining how a named material (carbon, water, or nitrogen) cycles between organisms and the abiotic environment through named processes",
+          "Credit responses that describe the role of decomposers/microorganisms in breaking down dead organic matter and releasing nutrients back into the ecosystem",
+          "Award 1 mark for each correctly identified trophic level in a food chain or for explaining energy transfer between levels",
+          "Credit candidates who explain why biodiversity is important by linking it to ecosystem stability, resilience, or human benefits",
+          "Award 1 mark for describing a valid method to measure biodiversity (species richness, Simpson's index) or abundance/distribution (quadrats, transects, mark-release-recapture)"
+        ],
+        "common_mistakes": [
+          "Students confuse adaptation with evolution; they state organisms 'adapt' during their lifetime rather than explaining that adaptations are inherited traits that develop over generations",
+          "When explaining material cycling, students describe only one direction of flow (e.g., photosynthesis taking up carbon) without explaining the complete cycle including respiration and decomposition",
+          "Students fail to distinguish between interdependence and competition; they use these terms interchangeably rather than explaining that interdependence is mutual reliance while competition is struggle for resources",
+          "In biodiversity questions, students state 'more species is better' without explaining the mechanism—that greater biodiversity increases ecosystem stability or provides functional redundancy",
+          "Students describe human impacts (deforestation, pollution) without evaluating consequences; they list activities rather than explaining biological or ecological effects",
+          "When asked to explain decomposition, students omit the role of microorganisms or fail to link decomposition to nutrient cycling and ecosystem function"
+        ],
+        "exam_tips": [
+          "For 'Explain' questions worth 2+ marks, always provide a linked chain of reasoning: state the process, explain the mechanism, and connect it to ecosystem function or organism survival",
+          "When discussing material cycling, use the command words 'released' and 'taken up' to show bidirectional flow; examiners expect evidence that you understand cycles are not linear",
+          "In biodiversity and human impact questions, structure answers using 'This causes... which leads to... resulting in...' to demonstrate AO3 analysis rather than simple description",
+          "For adaptation questions, specify the type (structural/behavioural/functional) and explicitly link it to a named environmental factor; vague answers like 'helps survival' score lower than 'thick fur reduces heat loss in cold climates'",
+          "Use sampling technique names precisely: 'quadrat' not 'square', 'transect' not 'line', and explain why each method is appropriate for the habitat being studied",
+          "When evaluating methods to maintain biodiversity, consider both effectiveness and feasibility; examiners reward balanced judgement that acknowledges trade-offs"
+        ],
+        "likely_command_words": [
+          "State",
+          "Describe",
+          "Explain",
+          "Evaluate",
+          "Compare",
+          "Analyse",
+          "Suggest",
+          "Calculate"
+        ],
+        "command_word_ao_map": {
+          "State": "AO1",
+          "Describe": "AO1",
+          "Explain": "AO2",
+          "Evaluate": "AO3",
+          "Compare": "AO2",
+          "Analyse": "AO3",
+          "Suggest": "AO2",
+          "Calculate": "AO1"
+        },
+        "ao_emphasis": {
+          "AO1": 35,
+          "AO2": 40,
+          "AO3": 25
+        },
+        "discriminator_features": {
+          "grade_boundary_low": "Students at pass level (Grade 4) can state adaptations and describe basic ecosystem organisation (producers, consumers, decomposers) but struggle to explain *why* adaptations are important or how material cycling maintains ecosystem function; they describe human impacts without linking to biodiversity loss",
+          "grade_boundary_high": "Students achieving Grade 8-9 explain adaptations with reference to specific environmental pressures, construct complete material cycles showing bidirectional flow, analyse sampling data to draw conclusions about populations, and evaluate conservation strategies by weighing ecological benefits against practical constraints or conflicting pressures"
+        },
+        "feedback_prompts": [
+          "You've identified the adaptation well—now explain the specific environmental condition it helps the organism cope with, and how this improves its survival or reproduction",
+          "Your description of the carbon cycle is incomplete; you've shown photosynthesis taking up carbon, but you need to explain how carbon is returned to the atmosphere through respiration and decomposition",
+          "You've listed three human impacts on biodiversity, but the question asks you to evaluate. Choose one impact and explain both the mechanism of harm and why maintaining biodiversity matters to prevent this",
+          "Your answer describes what decomposers do, but doesn't explain why decomposition is essential to the ecosystem—link it to nutrient recycling and how this supports plant growth and energy flow",
+          "You've correctly identified this as a structural adaptation, but you need to explain the advantage it provides in the organism's specific habitat rather than just naming the adaptation"
+        ]
+      },
+      "extracted_at": "2026-03-05T23:33:03.221Z"
+    }
+  ]
+}

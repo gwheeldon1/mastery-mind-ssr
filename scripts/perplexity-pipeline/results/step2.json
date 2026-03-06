@@ -1,0 +1,298 @@
+{
+  "160f891a-b1c4-4bad-a961-290fcbde1612": {
+    "spec_id": "160f891a-b1c4-4bad-a961-290fcbde1612",
+    "papers": [
+      {
+        "paper_number": "1",
+        "paper_title": "Paper 1: non-calculator",
+        "duration_minutes": 90,
+        "total_marks": 80,
+        "weighting_percent": 33.333,
+        "question_types": [
+          "short single-mark questions",
+          "multi-step problems"
+        ],
+        "topics_assessed": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "tiers": [
+          "Foundation",
+          "Higher"
+        ]
+      },
+      {
+        "paper_number": "2",
+        "paper_title": "Paper 2: calculator",
+        "duration_minutes": 90,
+        "total_marks": 80,
+        "weighting_percent": 33.333,
+        "question_types": [
+          "short single-mark questions",
+          "multi-step problems"
+        ],
+        "topics_assessed": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "tiers": [
+          "Foundation",
+          "Higher"
+        ]
+      },
+      {
+        "paper_number": "3",
+        "paper_title": "Paper 3: calculator",
+        "duration_minutes": 90,
+        "total_marks": 80,
+        "weighting_percent": 33.333,
+        "question_types": [
+          "short single-mark questions",
+          "multi-step problems"
+        ],
+        "topics_assessed": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "tiers": [
+          "Foundation",
+          "Higher"
+        ]
+      }
+    ],
+    "assessment_objectives": [
+      {
+        "ao_code": "AO1",
+        "description": "Demonstrate knowledge and understanding of mathematical knowledge, methods, facts and concepts and apply these in simple contexts",
+        "weighting_percent": 40
+      },
+      {
+        "ao_code": "AO2",
+        "description": "Apply mathematical knowledge, methods, facts and concepts in more complex, structured contexts",
+        "weighting_percent": 30
+      },
+      {
+        "ao_code": "AO3",
+        "description": "Interpret and communicate mathematical information; solve problems in mathematical and non-mathematical contexts",
+        "weighting_percent": 30
+      }
+    ],
+    "marking_approach": "point_based",
+    "has_coursework": false,
+    "has_practical_endorsement": false,
+    "extracted_at": "2026-03-05T16:25:25.204Z"
+  },
+  "7d13999c-6a1e-4110-963d-3f23dcbd5d13": {
+    "spec_id": "7d13999c-6a1e-4110-963d-3f23dcbd5d13",
+    "papers": [
+      {
+        "paper_number": "1",
+        "paper_title": "J277/01: Computer systems",
+        "duration_minutes": 90,
+        "total_marks": 80,
+        "weighting_percent": 50,
+        "question_types": [
+          "multiple choice",
+          "short response",
+          "extended response"
+        ],
+        "topics_assessed": [
+          "1"
+        ],
+        "tiers": []
+      },
+      {
+        "paper_number": "2",
+        "paper_title": "J277/02: Computational thinking, algorithms and programming",
+        "duration_minutes": 90,
+        "total_marks": 80,
+        "weighting_percent": 50,
+        "question_types": [
+          "short response",
+          "medium response",
+          "extended response"
+        ],
+        "topics_assessed": [
+          "2"
+        ],
+        "tiers": []
+      }
+    ],
+    "assessment_objectives": [
+      {
+        "ao_code": "AO1",
+        "description": "Demonstrate knowledge and understanding of the specification content",
+        "weighting_percent": 40
+      },
+      {
+        "ao_code": "AO2",
+        "description": "Apply knowledge, understanding and skills to problems and issues which are set within a directed, practical computational context",
+        "weighting_percent": 40
+      },
+      {
+        "ao_code": "AO3",
+        "description": "Analyse problems and issues, create solutions and make decisions",
+        "weighting_percent": 20
+      }
+    ],
+    "marking_approach": "point_based",
+    "has_coursework": false,
+    "has_practical_endorsement": false,
+    "extracted_at": "2026-03-05T16:25:34.006Z"
+  },
+  "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3": {
+    "spec_id": "5f49e060-e85b-4e41-a4ca-a872e0b7f8b3",
+    "papers": [
+      {
+        "paper_number": "1",
+        "paper_title": "Paper 1: Introductory Topics in Psychology",
+        "duration_minutes": 120,
+        "total_marks": 96,
+        "weighting_percent": 33.3,
+        "question_types": [
+          "multiple choice",
+          "short answer",
+          "extended writing"
+        ],
+        "topics_assessed": [
+          "3.1"
+        ],
+        "tiers": []
+      },
+      {
+        "paper_number": "2",
+        "paper_title": "Paper 2: Psychology in Context",
+        "duration_minutes": 120,
+        "total_marks": 96,
+        "weighting_percent": 33.3,
+        "question_types": [
+          "multiple choice",
+          "short answer",
+          "extended writing"
+        ],
+        "topics_assessed": [
+          "3.2"
+        ],
+        "tiers": []
+      },
+      {
+        "paper_number": "3",
+        "paper_title": "Paper 3: Issues and Options in Psychology",
+        "duration_minutes": 120,
+        "total_marks": 96,
+        "weighting_percent": 33.3,
+        "question_types": [
+          "multiple choice",
+          "short answer",
+          "extended writing"
+        ],
+        "topics_assessed": [
+          "3.3"
+        ],
+        "tiers": []
+      }
+    ],
+    "assessment_objectives": [
+      {
+        "ao_code": "AO1",
+        "description": "Demonstrate knowledge and understanding",
+        "weighting_percent": 33
+      },
+      {
+        "ao_code": "AO2",
+        "description": "Apply knowledge and understanding",
+        "weighting_percent": 35
+      },
+      {
+        "ao_code": "AO3",
+        "description": "Analyse, interpret and evaluate",
+        "weighting_percent": 32
+      }
+    ],
+    "marking_approach": "levels_based",
+    "has_coursework": false,
+    "has_practical_endorsement": false,
+    "extracted_at": "2026-03-05T16:27:32.644Z"
+  },
+  "33ab7968-9425-4501-9c14-2bed70c6c97d": {
+    "spec_id": "33ab7968-9425-4501-9c14-2bed70c6c97d",
+    "papers": [
+      {
+        "paper_number": "1",
+        "paper_title": "Paper 1",
+        "duration_minutes": 105,
+        "total_marks": 100,
+        "weighting_percent": 50,
+        "question_types": [
+          "multiple choice",
+          "short answer",
+          "extended response"
+        ],
+        "topics_assessed": [
+          "4.1",
+          "4.2",
+          "4.3",
+          "4.4"
+        ],
+        "tiers": [
+          "Foundation",
+          "Higher"
+        ]
+      },
+      {
+        "paper_number": "2",
+        "paper_title": "Paper 2",
+        "duration_minutes": 105,
+        "total_marks": 100,
+        "weighting_percent": 50,
+        "question_types": [
+          "multiple choice",
+          "short answer",
+          "extended response"
+        ],
+        "topics_assessed": [
+          "4.5",
+          "4.6",
+          "4.7"
+        ],
+        "tiers": [
+          "Foundation",
+          "Higher"
+        ]
+      }
+    ],
+    "assessment_objectives": [
+      {
+        "ao_code": "AO1",
+        "description": "Demonstrate knowledge and understanding",
+        "weighting_percent": 40
+      },
+      {
+        "ao_code": "AO2",
+        "description": "Apply knowledge and understanding",
+        "weighting_percent": 40
+      },
+      {
+        "ao_code": "AO3",
+        "description": "Analyse information and ideas",
+        "weighting_percent": 20
+      }
+    ],
+    "marking_approach": "point_based",
+    "has_coursework": false,
+    "has_practical_endorsement": false,
+    "extracted_at": "2026-03-05T16:27:55.810Z"
+  }
+}
